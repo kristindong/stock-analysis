@@ -19,7 +19,8 @@ Additionally, we refactored the original VBA script by adding three new array va
 ![VBA_Challenge_2017](VBA_Challenge_2017.PNG) ![VBA_Challenge_2018](VBA_Challenge_2018.PNG)
 
 
-The Excel data, VBA script, and summary can be found here https://github.com/kristindong/kickstarter-analysis/blob/62e1976782ed354c171c9145852a2a6cb11caa58/Kickstarter_Challenge.zip
+The Excel data, VBA script, and summary can be found here:
+https://github.com/kristindong/stock-analysis/blob/73674585ddd594b4abeb065772c5354c24ecf20e/VBA_Challenge.xlsm
 
 
 ## Summary
